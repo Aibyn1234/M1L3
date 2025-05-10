@@ -41,4 +41,3 @@ def make_some(message):
 
 
 bot.infinity_polling(none_stop=True)
-#
